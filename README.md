@@ -1,5 +1,36 @@
 # nsa-codechallenge-2023
 
+## Task 2
+
+Answer
+```
+P1
+P6
+P43
+P44
+```
+
+## Task 3
+
+list all env
+```
+env print -a
+```
+
+and find `key_addr`
+
+use `md` to view the address, `md.b` print the byte value
+
+```
+md.b <key_addr>
+```
+
+be careful for the endian
+
+## Task 4
+
+`hashcat` to bruteforce `[0-9a-f]`
+
 ## Task 5
 
 use `binwalk` to find secret file in `dropper` binary
