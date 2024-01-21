@@ -30,6 +30,7 @@ be careful for the endian
 ## Task 4
 
 `hashcat` to bruteforce `[0-9a-f]`
+key: `c44b878c1a623dfb38ba90f9a249260342fc6b38`
 
 ## Task 5
 
