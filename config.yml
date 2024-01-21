@@ -1,0 +1,6 @@
+database:
+  collection: files
+  database: snapshot-84878f91a215
+  url: mongodb://maintenance:7324f65b696f30@100.100.250.36:27017/?authSource=snapshot-84878f91a215
+server:
+  directory: /tmp/upload
